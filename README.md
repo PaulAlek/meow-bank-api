@@ -11,7 +11,7 @@ This is a simple Flask application that provides various endpoints to manage cus
 
 1. **Clone the repository**:
 
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/PaulAlek/meow-bank-api
     cd your-repo-name
 
 Create a virtual environment:
