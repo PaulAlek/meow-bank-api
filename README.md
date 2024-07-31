@@ -14,28 +14,33 @@ This is a simple Flask application that provides various endpoints to manage cus
     git clone https://github.com/PaulAlek/meow-bank-api
     cd your-repo-name
 
-Create a virtual environment:
+#### Create a virtual environment:
 
 python -m venv venv
-Activate the virtual environment:
 
-On macOS/Linux:
+#### Activate the virtual environment:
+
+##### On macOS/Linux:
 
 source venv/bin/activate
-On Windows:
+
+##### On Windows:
 
 .\venv\Scripts\activate
-Install the dependencies:
+
+####Install the dependencies:
 
 pip install -r requirements.txt
 
 ### Usage
 
-Running the Flask Application
+### Running the Flask Application
+
 Ensure the virtual environment is activated:
 
 source venv/bin/activate # On macOS/Linux
 .\venv\Scripts\activate # On Windows
+
 Run the application:
 
 python app.py
